@@ -1,0 +1,15 @@
+Que 1) Find Total Quantity of Pizzas Sold.
+Que 2) Find Total Orders Per Day.
+Que 3) Find Orders by Hour.
+Que 4) Find the total number of unique orders placed.
+Que 5) Show top 5 cheapest pizzas.
+Que 6) Display pizza name with its category.
+Que 7) Find the name and price of the most expensive pizza.
+Que 8) Calculate the total revenue generated from all pizza sales.
+Que 9) Identify the most commonly ordered pizza size.
+Que 10) List the top 5 most ordered pizza types with total quantities.
+Que 11) Find total quantity sold for each pizza category.
+Que 12) Determine the top 3 pizza types based on total revenue.
+Que 13) Find Best Selling Pizza Size.
+Que 14) Find Busiest Day With Highest Number of Orders.
+Que 15) Find Month-wise Revenue.
